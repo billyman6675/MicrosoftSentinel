@@ -73,7 +73,7 @@
 4737,A security-enabled global group was changed,Group Membership changed,IdentityDirectoryEvents,Yes,Defender,Medium
 4738, A user account was changed,UserAccountModified (workstation),DeviceEvents,Yes,Defender,Medium
 4739, Domain Policy was changed,Not captured,-,Yes,Azure Monitor,Medium
-4740, A user account was locked out,Account Locked changed,IdentityDirectoryEvents,Yes,Defender,High
+4740, A user account was locked out,Account Locked changed (AD only),IdentityDirectoryEvents (AD Only),Yes,Defender,High
 4741, A computer account was created,Device Account Created,IdentityDirectoryEvents,Yes,Defender,High
 4742, A computer account was changed,Not captured,-,Yes,Azure Monitor,Low
 4743, A computer account was deleted.,Security Principal deleted changed,IdentityDirectoryEvents,Yes,Defender,Low
